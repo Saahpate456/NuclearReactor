@@ -34,8 +34,8 @@ namespace NuclearReactor
             Refresh();
             Thread.Sleep(1000);
 
-            reactor1StateLabel.BackColor = Color.White;
-            reactor2StateLabel.BackColor = Color.White;
+            reactor1StateLabel.BackColor = Color.Purple;
+            reactor2StateLabel.BackColor = Color.Purple;
             Refresh();
             Thread.Sleep(1000);
 
